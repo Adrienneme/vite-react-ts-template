@@ -24,7 +24,6 @@ npm install
 ```
 
 
-
 ### Core Libraries
 - **class-variance-authority** – Helps manage complex Tailwind CSS class variants.
 - **clsx** – Utility for conditionally joining classNames.
